@@ -54,7 +54,7 @@ let aboutme = `Hey everyone my name is ${name} and my age is ${age}`;
 console.log(aboutme);
 
 let str1 = "this is my locaation";
-let str2 = "and this is the additon";
+let str2 = "and this is the addition";
 
 console.log(str1+str2);
 
